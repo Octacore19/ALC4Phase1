@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="main_screen_text">Welcome to ALC 4.0</string>
+    <string name="about_btn_text">ABOUT ALC</string>
+    <string name="profile_btn_text">MY PROFILE</string>
+    <string name="profile_name">Chukwu Gideon</string>
+    <string name="text_track_label">Track:</string>
+    <string name="text_country_label">Country:</string>
+    <string name="text_email_label">E-mail:</string>
+    <string name="text_phone_label">Phone Number:</string>
+    <string name="text_slack_label">Slack Username:</string>
+    <string name="image_content_description">Profile Photo</string>
+    <string name="text_track">Android</string>
+    <string name="text_country">Nigeria</string>
+    <string name="text_email">chuksgid@gmail.com</string>
+    <string name="text_phone">08148504983</string>
+    <string name="text_slack">\@Octacore</string>
+</resources>
